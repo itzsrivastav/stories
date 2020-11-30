@@ -1,0 +1,3 @@
+It is designed to manage low cost and more constrained devices (e.g. battery powered location tracker) as well as high end M2M devices (e.g. industrial gateway).
+2.It provides secure communications between client and server using DTLS (Datagram Transport Layer Security). DTLS uses public key as well as pre-shared key technology.
+3.LWM2M data model is one of the major benefits of LWM2M. It allows unlimited extensions to itself 
